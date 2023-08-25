@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(199, 191, 74);
+}
+
+.caixa{
+     padding: 20px;
+     margin: 10px;
+     border: 50px;
+
+}
